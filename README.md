@@ -1,7 +1,7 @@
 # Telco_Customer_Churn_Analysis
 This project involves a detailed Churn Analysis and Prediction Dashboard built using Power BI and powered by a machine learning model for customer churn prediction. The dashboard visualizes the behavior and characteristics of churned customers to help businesses reduce attrition and improve customer retention.
 ## Dataset
-<a href= "">Telco.csv</a>
+<a href= "https://github.com/Shruti-131202/Telco_Customer_Churn_Analysis/blob/main/telco.xlsx"> Telco.csv</a>
  ## Key figures:
 - Total Customers: 2003
 - Predicted Churners: 447
