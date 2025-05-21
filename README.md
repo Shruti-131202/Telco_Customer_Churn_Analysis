@@ -19,7 +19,7 @@ This project involves a detailed Churn Analysis and Prediction Dashboard built u
 - Output: Binary prediction – Churn or Not Churn.
 ## Dashboard Creation in Power BI
 - <a href="https://github.com/Shruti-131202/Telco_Customer_Churn_Analysis/blob/main/Churn_Summary.jpg">Churn Summary</a>
-- <a href="">Churn prediction</a>
+- <a href="https://github.com/Shruti-131202/Telco_Customer_Churn_Analysis/blob/main/Churn_prediction.jpg">Churn prediction</a>
 -Integrated predicted churn results with customer profiles.
 - Built visual summaries based on:
 - Gender, Age Group, Contract Type
