@@ -13,7 +13,7 @@ This project involves a detailed Churn Analysis and Prediction Dashboard built u
 - Handled missing values, encoded categorical data.
 - Created tenure groups, charge ranges, and churn reason mapping.
 ## Churn Prediction Model
-<a href="">Logistic Regression model</a>
+- <a href="https://github.com/Shruti-131202/Telco_Customer_Churn_Analysis/blob/main/Telco_Churn_prediction.ipynb">Logistic Regression model</a>
 - Used Python to train a Logistic Regression model.
 - Features used: contract type, payment method, tenure, total charges, internet type, etc.
 - Output: Binary prediction – Churn or Not Churn.
