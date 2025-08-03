@@ -6,7 +6,7 @@ This project involves a detailed Churn Analysis and Prediction Dashboard built u
 - Total Customers: 2003
 - Predicted Churners: 447
 - Churn Rate: 41%
-- Model Used: Logistic Regression (for classification of churn likelihood)
+- Model Used: Random Forest Classisier 
 
 ## Process
 - Data Cleaning & Preprocessing
